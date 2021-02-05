@@ -1,5 +1,5 @@
 {
-    "name": "jorenvanhocht/laravel-share",
+    "name": "sustainablebrands/laravel-share",
     "description": "Optional package for Laravel to generate social share links.",
     "keywords": [
         "laravel",
@@ -7,7 +7,7 @@
         "social links",
         "social share links"
     ],
-    "homepage": "https://github.com/jorenvh/laravel-share",
+    "homepage": "https://github.com/sustainablebrands/laravel-share",
     "license": "MIT",
     "authors": [
         {
