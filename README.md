@@ -187,7 +187,7 @@ Outputs:
 
 #### Add extra classes, id's or titles to the social buttons
 
-You can simply add extra class(es), id('s) or title(s) by passing an array as the third parameter on the page method.
+You can simply add extra class(es), id('s), title(s), target(s), or ref(s) by passing an array as the third parameter on the page method.
 
 ```php
 Share::page('http://jorenvanhocht.be', null, ['class' => 'my-class', 'id' => 'my-id', 'title' => 'my-title'])
